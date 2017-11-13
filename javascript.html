@@ -1,0 +1,30 @@
+<html>
+<head><title>ved </title></head>
+
+<body>
+<form method="post" action="javascript.html">
+<input type="password" id="Password1" name="p1" /><span id="pass1"></span><br />
+<input type="password" id="Password2" name="p2" onkeyup="validateData()"/><span id="pass2"></span><br />
+</form>
+
+<script type="text/javascript" lang="javascript">
+function validateData()
+{
+	
+	var obj = document.getElementById("Password1").value;
+	var obj2 = document.getElementById("Password2").value;
+		if(obj===obj2)
+		{
+			document.getElementById("pass1").innerHTML='<img src="./data/checked.gif">';
+			document.getElementById("pass2").innerHTML='<img src="./data/checked.gif">';
+			
+		}
+		else
+		{
+			document.getElementById("pass2").innerHTML='<img src="./data/unchecked.gif">';
+		}
+	//var obj2 = document.getElementById("pass1").innerHTML='<img src="./data/checked.gif">';
+}
+
+</script>
+</body></html>

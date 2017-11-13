@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<web-app version="2.5">
+
+	<session-config>
+		<session-timeout>
+			30
+		</session-timeout>
+	</session-config>
+	
+	<welcome-file-list>
+		<welcome-file>indexved.php</welcome-file>
+	</welcome-file-list>
+</web-app>

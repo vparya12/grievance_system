@@ -1,0 +1,17 @@
+<?xml version="1.0"?><svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <title>up-yellow-arrow</title>
+ <defs>
+  <linearGradient id="linearGradient4554">
+   <stop stop-color="#ffffff" offset="0" id="stop4556"/>
+   <stop stop-color="#ffffff" stop-opacity="0" offset="1" id="stop4558"/>
+  </linearGradient>
+  <linearGradient xlink:href="#linearGradient4554" id="linearGradient6041" x1="-0.470641" y1="-0.395304" x2="-0.083763" y2="0.186124"/>
+ </defs>
+ <metadata id="metadata4">image/svg+xml</metadata>
+ <g>
+  <path fill="#acb327" fill-rule="nonzero" stroke="white" stroke-width="0" marker-start="none" marker-mid="none" marker-end="none" stroke-miterlimit="4" stroke-dashoffset="0" id="path5182" d="m502.990997,187.103073c0,91.781601 -74.402069,166.185745 -166.186432,166.185745c-91.777466,0 -166.186447,-74.404144 -166.186447,-166.185745c0,-91.781586 74.408981,-166.185741 166.186447,-166.185741c91.784363,0 166.186432,74.404156 166.186432,166.185741z"/>
+  <path fill="url(#linearGradient6041)" fill-rule="nonzero" stroke-width="0.616072" marker-start="none" marker-mid="none" marker-end="none" stroke-miterlimit="4" stroke-dashoffset="0" d="m194.787994,19.9245c-13.347,0 -24.174988,10.828001 -24.174988,24.174801c0,6.412601 2.616989,12.142899 6.694992,16.472c2.119003,-17.5005 16.889999,-31.107201 34.959,-31.107201c0.487,0 0.938995,0.0989 1.421997,0.1185c-4.421997,-5.7507 -11.091995,-9.6581 -18.901001,-9.6581z" id="path5184"/>
+  <path transform="rotate(179.931, 337.809, 206.166)" fill="#ffffff" fill-rule="nonzero" stroke-width="1.750002" stroke-linecap="round" stroke-linejoin="round" marker-start="none" marker-mid="none" marker-end="none" stroke-miterlimit="4" stroke-dashoffset="0" id="path5186" d="m197.019058,258.460785l36.834656,36.834656l104.318924,-104.319183l103.318848,103.318726l37.1073,-37.107452l-140.153259,-140.153229l-141.426468,141.426483z"/>
+  <title>Layer 1</title>
+ </g>
+</svg>

@@ -1,0 +1,13 @@
+#LeftBox{
+	width:50%;
+	float:left;
+	padding:25px;
+	
+}
+#MiddleBox{
+
+	width:42%;
+	text-align:center;
+	float:left;
+
+}

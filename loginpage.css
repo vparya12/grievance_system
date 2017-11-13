@@ -1,0 +1,53 @@
+/* CSS Document */
+.Data{
+	padding-top:2%;
+	padding-bottom:1.5%;
+}
+
+#UserDetails{
+	border:1px solid #000000;
+	border-radius:10px;
+	text-align:left;
+	padding-top:1%;
+	padding-left:5px;
+	
+}
+#UserDetails img{
+	margin-left:25%;
+	
+}
+
+#Items{
+	
+	 padding:1%;
+	color:gray;
+	 border-bottom-left-radius:1%;
+}
+.A{
+	display:inline;
+	padding-left:2.5%;
+	color:#CC9933;
+	background:#FFFFF2;
+	border-radius:5%;
+	padding-right:2.5%;
+	font-size:150%;
+	
+}
+
+.A:hover{
+	cursor:pointer;
+	background:#DFEFFF;
+	
+}
+#Select_To
+{
+  padding:1%;
+  color:#1982D1;
+}
+
+#RECENT{
+	font-size:125%;
+	margin-top:3%;
+	margin-left:4%;
+
+}

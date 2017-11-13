@@ -1,0 +1,27 @@
+<html>
+<head>
+</head>
+<body>
+<img src="./data/0.jpg" id="v">
+<form method="post" action="file.html">
+<input type="file" id="upload"/>
+<input type="button" value="upload" onClick="onClicked()">
+</form>
+
+<script>
+function onClicked(){
+	var obj=document.getElementById("upload");
+	var ved=obj.value;
+	var van= ved.split(/(\\|\/)/g).pop();
+	var path="\5.jpg"
+	var imgobj=  document.getElementById("v");
+	imgobj.src=path;
+	//document.write(ved);
+}
+
+</script> 
+
+
+
+</body>
+</html>
